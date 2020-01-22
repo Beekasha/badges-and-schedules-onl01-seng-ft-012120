@@ -44,7 +44,4 @@ def printer(names)
       counter += 1
     end
   end
-  
-
-  
 end
